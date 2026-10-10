@@ -1,4 +1,3 @@
-
 # Retail Inventory & Supply Chain Analysis
 
 ## Project Overview
@@ -38,12 +37,13 @@ The goal is to identify business trends, evaluate inventory efficiency, understa
 - **On-Time Deliveries:** 65.59%
 
 ## Project Files
-1. `1_retail_inventory_supply_chain_analysis_data.csv` — Cleaned dataset used for analysis.
-2. `2_retail_inventory_supply_chain_analysis_python.ipynb` — Python notebook for data cleaning and exploratory analysis.
-3. `3_retail_inventory_supply_chain_analysis_queries.sql` — PostgreSQL queries for business analysis.
-4. `4_retail_inventory_supply_chain_analysis_dashboard.pbix` — Interactive Power BI dashboard.
-5. `5_retail_inventory_supply_chain_analysis_dashboard_image.png` — Dashboard preview image.
-6. `6_retail_inventory_supply_chain_analysis_report.pdf` — Final project analysis report.
+
+1. [Cleaned Dataset (CSV)](1_retail_inventory_supply_chain_analysis_data.csv)
+2. [Python Analysis Notebook](2_retail_inventory_supply_chain_analysis_python.ipynb)
+3. [PostgreSQL SQL Queries](3_retail_inventory_supply_chain_analysis_queries.sql)
+4. [Power BI Dashboard (PBIX)](4_retail_inventory_supply_chain_analysis_dashboard.pbix)
+5. [Dashboard Preview (PNG)](5_retail_inventory_supply_chain_analysis_dashboard_image.png)
+6. [Final Analysis Report (PDF)](6_retail_inventory_supply_chain_analysis_report.pdf)
 
 ## Methodology
 1. Cleaned and prepared the dataset in Excel.
